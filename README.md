@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy Odannys De La Cruz</h1>
 <h3 align="center">Frontend Developer (Backend Student)</h3>
-<p>Con base en Colombia, experto en tecnología web Html5, Css3, Sass, JavaScript, Node, Npm y Webpack. Apasionado de Vuejs y amante de JavaScript y CSS🔥. <br><br>Se cómo funciona con claridad el backend en un software ⚙️ (Php, NodeJs, Python, API Rest, Bases de datos, etc.), mi flujo en un día normal de trabajo es desarrollar interfaces estáticas de software e implementar funcionalidades atravez del consumo de Apis Rest 🔛, generar interacciones con el usuario ✨🍂 y guiarlo de manera fluida 🌊 por toda la interfaz.<br><br>Me gusta el desarrollo de software en general. Sin embargo lo que me motiva es ver la evolución de una idea/proyecto hasta convertirse en un producto o servicio terminado y funcional 🏁 y haber sido parte de ello 🤩.<br><br>Me gustan los proyectos relacionados al E-commerce 🛒 y la logística 🚛. Me gusta el enfoque del desarrollo de software con metodologías ágiles y Scrum 👥. <br><br>En mí tiempo libre desarrollo aplicaciones para la iglesia donde asisto 👨🏾‍💻🛐, soy cinturón negro en taekwondo 🥋🏅 desde hace +8 años, de vez en cuando doy clase de defensa personal 🤸🏾‍♂️ y aprendo nuevas cosas a diario, y si que me gusta toda esta locura! 🤯</p>
+<p>Con base en Colombia, experto en tecnología web Html5, Css3, Sass, JavaScript, Node, Npm y Webpack. Apasionado de Vuejs y amante de JavaScript y CSS🔥. <br><br>Se cómo funciona con claridad el backend en un software ⚙️ (Php, NodeJs, Python, Laravel, MySql, API Rest, Bases de datos, etc.), mi flujo en un día normal de trabajo es desarrollar interfaces estáticas de software e implementar funcionalidades atravez del consumo de Apis Rest 🔛, generar interacciones con el usuario ✨🍂 y guiarlo de manera fluida 🌊 por toda la interfaz.<br><br>Me gusta el desarrollo de software en general. Sin embargo lo que me motiva es ver la evolución de una idea/proyecto hasta convertirse en un producto o servicio terminado y funcional 🏁 y haber sido parte de ello 🤩.<br><br>Me gustan los proyectos relacionados al E-commerce 🛒 y la logística 🚛. Me gusta el enfoque del desarrollo de software con metodologías ágiles y Scrum 👥. <br><br>En mí tiempo libre desarrollo aplicaciones para la iglesia donde asisto 👨🏾‍💻🛐, soy cinturón negro en taekwondo 🥋🏅 desde hace +8 años, de vez en cuando doy clase de defensa personal 🤸🏾‍♂️ y aprendo nuevas cosas a diario, y si que me gusta toda esta locura! 🤯</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odannysdelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="odannysdelacruz" /> </p>
 
@@ -9,11 +9,11 @@
 - 🔭 Actualmente trabajando en [**Lezag Superbeauty**](https://www.superbeauty.com.co) a tiempo completo.
 - En mi tiempo libre desarrollando **Netflix Clone whit Vue** --> [Repositorio del proyecto](https://github.com/OdannysDeLaCruz/netflix-clone-vue)
 
-- 🌱 Estoy aprendiendo desarrollo backend con las tecnologías **Node, Express y MongoDB**, tengo conocimientos de **PHP y MySql**.
+- 🌱 Estoy aprendiendo desarrollo backend con las tecnologías **Node, Express y MongoDB**, tengo conocimientos de **PHP, MySql y Laravel desarrollando APIs Rest**.
 
 - 👨‍💻 Puedes ver algunos de mis proyectos en [https://odannysdelacruz.github.io/](https://odannysdelacruz.github.io/), tengo que actualizarlo, lo sé.
 
-- 💬 Preguntame acerca **javascript, vuejs y demas tecnologías web frontend**
+- 💬 Preguntame acerca **javascript, Vue js, React js, Ionic Framework y demas tecnologías web frontend**
 
 - 📫 Enviame un email a **el_odanis321@hotmail.com**
 
