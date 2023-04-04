@@ -1,6 +1,58 @@
 <h1 align="center">Hola 👋, Soy Odannys De La Cruz</h1>
-<h3 align="center">Frontend and Backend Developer</h3>
-<p>Con base en Colombia, experto en tecnología web Html5, Css3, Sass, JavaScript, Node, Npm y Webpack. Apasionado de Vuejs, JavaScript, CSS y amante del desarrollo Backend🔥 con Laravel y Node. <br><br>Se cómo funciona con claridad el backend en un software ⚙️ (Php, NodeJs, Python, Laravel, MySql, API Rest, Bases de datos, etc.), mi flujo en un día normal de trabajo es desarrollar interfaces estáticas de software e implementar funcionalidades atravez del consumo de Apis Rest 🔛, generar interacciones con el usuario ✨🍂 y guiarlo de manera fluida 🌊 por toda la interfaz.<br><br>Me gusta el desarrollo de software en general. Sin embargo lo que me motiva es ver la evolución de una idea/proyecto hasta convertirse en un producto o servicio terminado y funcional 🏁 y haber sido parte de ello 🤩.<br><br>Me gustan los proyectos relacionados al E-commerce 🛒 y la logística 🚛. Me gusta el enfoque del desarrollo de software con metodologías ágiles y Scrum 👥. <br><br>En mí tiempo libre desarrollo aplicaciones para la iglesia donde asisto 👨🏾‍💻🛐, soy cinturón negro en taekwondo 🥋🏅 desde hace +8 años, de vez en cuando doy clase de defensa personal 🤸🏾‍♂️ y aprendo nuevas cosas a diario, y si que me gusta toda esta locura! 🤯</p>
+<h3 align="center">Software Developer +6 años de experiencia con base en Colombia, experto en tecnología web.</h3>
+<p>
+🔥 Frontend:
+ 
+ </> Typescript
+ 🍃 Vue 2, Vue 3, NuxtJs
+ 🍍 Pinia y Vuex
+ ⚛ Ionic Framework 
+ ⚛ React y React Hook
+ 💅 CSS y SASS
+ 💅 Styled Component
+
+🔥 Backend:
+
+ Javascript y NodeJs
+ Php y Laravel 
+ 🔛 APIs Rest
+ OOP
+ 
+🔥 Bases de datos:
+
+ MySql, Maria DB
+ Postgress
+ Mongo DB
+
+🔥 Cloud
+
+ AWS Amplify
+ AWS S3
+ AWS EC2
+ Github 
+ MongoAtlas
+ Heroku
+
+🔥 Metodologias de trabajo:
+ 
+ 👥 Agil Scrum
+ 🏁 Kanban
+ 👌 Capacidad de adaptarme a cualquier metodología. 
+ 
+ 
+🔥 Intereses y gustos:
+ 
+ 🛒 Ecommerce 
+ 📦 Marketplace B2B y B2C
+ 🚛 Plataformas de logisticas
+ 💳 FinTech 
+ 📙 EdTech
+ 
+
+🕒 En mí tiempo libre:
+
+ 👨🏾‍💻 Desarrollo Apps en la iglesia donde asisto 🛐
+ 🥋 Soy cinturón negro en taekwondo🏅 desde hace +9 años.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odannysdelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="odannysdelacruz" /> </p>
 
