@@ -34,9 +34,8 @@
 <h4>🔥 Cloud:</h4>
 
 <ul>
- <li>AWS Amplify</li>
- <li>AWS EC2</li>
- <li>Github</li>
+ <li>AWS Amplify, EC2, S3</li>
+ <li>Github, Bitbucket</li>
  <li>MongoAtlas</li>
  <li>Heroku</li>
  <li>Vercel</li> 
