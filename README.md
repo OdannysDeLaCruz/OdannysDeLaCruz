@@ -1,55 +1,69 @@
 <h1 align="center">Hola 👋, Soy Odannys De La Cruz</h1>
 <h3 align="center">Software Developer +6 años de experiencia con base en Colombia, experto en tecnología web.</h3>
 <p>
-🔥 Frontend:
  
- </> Typescript
- 🍃 Vue 2, Vue 3, NuxtJs
- 🍍 Pinia y Vuex
- ⚛ Ionic Framework 
- ⚛ React y React Hook
- 💅 CSS y SASS
- 💅 Styled Component
+ <h4>🔥 Frontend:</h4>
 
-🔥 Backend:
+<ul>
+ <li></> Typescript</li>
+ <li>🍃 Vue 2, Vue 3, NuxtJs</li>
+ <li>🍍 Pinia y Vuex</li>
+ <li>⚛ Ionic Framework </li>
+ <li>⚛ React y React Hook</li>
+ <li>💅 CSS y SASS</li>
+ <li>💅 Styled Component</li>
+</ul> 
 
- Javascript y NodeJs
- Php y Laravel 
- 🔛 APIs Rest
- OOP
+<h4>🔥 Backend:</h4>
+
+<ul>
+ <li>NodeJs y Express</li>
+ <li>Php y Laravel</li>
+ <li>🔛 APIs Rest, Microservices, Event Driven Arquitecture</li>
+ <li>OOP</li>
+</ul>
  
-🔥 Bases de datos:
+<h4>🔥 Bases de datos:</h4>
 
- MySql, Maria DB
- Postgress
- Mongo DB
+<ul>
+ <li>MySql, Maria DB</li>
+ <li>Postgress</li>
+ <li>Mongo DB</li>
+</ul>
+ 
+<h4>🔥 Cloud:</h4>
 
-🔥 Cloud
-
- AWS Amplify
- AWS S3
- AWS EC2
- Github 
- MongoAtlas
- Heroku
-
-🔥 Metodologias de trabajo:
- 
- 👥 Agil Scrum
- 🏁 Kanban
- 👌 Capacidad de adaptarme a cualquier metodología. 
- 
- 
-🔥 Intereses y gustos:
- 
- 🛒 Ecommerce 
- 📦 Marketplace B2B y B2C
- 🚛 Plataformas de logisticas
- 💳 FinTech 
- 📙 EdTech
+<ul>
+ <li>AWS Amplify</li>
+ <li>AWS EC2</li>
+ <li>Github</li>
+ <li>MongoAtlas</li>
+ <li>Heroku</li>
+ <li>Vercel</li> 
+</ul>
  
 
-🕒 En mí tiempo libre:
+<h4>🔥 Metodologias de trabajo:</h4>
+
+<ul>
+ <li>👥 Agil Scrum</li>
+ <li>🏁 Kanban</li>
+ <li>👌 Capacidad de adaptarme a cualquier metodología. </li>
+</ul>
+
+ 
+ <h4>🔥 Intereses y gustos:</h4>
+ 
+ <ul>
+ <li>🛒 Ecommerce</li>
+ <li>📦 Marketplace B2B y B2C</li>
+ <li>🚛 Plataformas de logisticas</li>
+ <li>💳 FinTech </li>
+ <li>📙 EdTech</li>
+</ul> 
+ 
+
+<h4>🕒 En mí tiempo libre:</h4>
 
  👨🏾‍💻 Desarrollo Apps en la iglesia donde asisto 🛐
  🥋 Soy cinturón negro en taekwondo🏅 desde hace +9 años.</p>
