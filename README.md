@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Odannys De La Cruz</h1>
-<h3 align="center">Software Developer +6 años de experiencia con base en Colombia, experto en tecnología web.</h3>
+<h3 align="center">Software Developer 8 años de experiencia con base en Colombia, experto en tecnología web.</h3>
 <p>
  
  <h4>🔥 Frontend:</h4>
@@ -18,6 +18,7 @@
 
 <ul>
  <li>NodeJs y Express</li>
+ <li>Golang</li>
  <li>Php y Laravel</li>
  <li>🔛 APIs Rest, Microservices, Event Driven Arquitecture</li>
  <li>OOP</li>
@@ -34,7 +35,7 @@
 <h4>🔥 Cloud:</h4>
 
 <ul>
- <li>AWS Amplify, EC2, S3</li>
+ <li>AWS Amplify, EC2, S3, Api Gateway, Route 53</li>
  <li>Github, Bitbucket</li>
  <li>MongoAtlas</li>
  <li>Heroku</li>
@@ -55,6 +56,7 @@
  
  <ul>
  <li>🛒 Ecommerce</li>
+ <li>🔐 Seguridad e Identidad</li>
  <li>📦 Marketplace B2B y B2C</li>
  <li>🚛 Plataformas de logisticas</li>
  <li>💳 FinTech </li>
