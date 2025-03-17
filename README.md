@@ -17,8 +17,8 @@
 <h4>🔥 Backend:</h4>
 
 <ul>
- <li>NodeJs y Express</li>
- <li>Golang</li>
+ <li>Typescript, Nest.Js, NodeJs y Express</li>
+ <li>Golang y Gin</li>
  <li>Php y Laravel</li>
  <li>🔛 APIs Rest, Microservices, Event Driven Arquitecture</li>
  <li>OOP</li>
