@@ -1,37 +1,28 @@
 <h1 align="center">Hola 👋, Soy Odannys De La Cruz</h1>
-<h3 align="center">Software Developer 8 años de experiencia con base en Colombia, experto en tecnología web.</h3>
+<h3 align="center">Soy ingeniero de software con 9 años de experiencia desarrollando productos web y móviles, diseñando arquitecturas de software y trabajando en frontend, backend e infraestructura cloud. Mi experiencia se centra en TypeScript, JavaScript, Node.js, NestJS, Python, FastAPI, React y Vue.js, además de Go, bases de datos SQL y NoSQL, AWS, Docker y CI/CD. He participado en el diseño y desarrollo de APIs, microservicios, marketplaces y plataformas de comercio electrónico, gestionando productos desde su arquitectura hasta su puesta en producción. Me interesa la aplicación práctica de la inteligencia artificial al desarrollo de software y actualmente estoy profundizando en fintech, riesgo crediticio y prevención del fraude. Busco oportunidades como Senior Full Stack Engineer o Software Engineer, especialmente en fintech, e-commerce y marketplaces, donde pueda aportar mi experiencia en desarrollo de productos, arquitectura de software y soluciones tecnológicas orientadas al negocio.</h3>
 <p>
  
- <h4>🔥 Frontend:</h4>
+ <h4>🔥 REDES:</h4>
 
 <ul>
- <li></> Typescript</li>
- <li>🍃 Vue 2, Vue 3, NuxtJs</li>
- <li>🍍 Pinia y Vuex</li>
- <li>⚛ Ionic Framework </li>
- <li>⚛ React y React Hook</li>
- <li>💅 CSS y SASS</li>
- <li>💅 Styled Component</li>
+ <li>LinkedIn: https://www.linkedin.com/in/odannysdelacruz/</li>
+ <li>Youtube: www.youtube.com/@IngenieroCosteño/videos</li>
+ <li>GitHub: https://github.com/OdannysDeLaCruz</li>
 </ul> 
 
-<h4>🔥 Backend:</h4>
+<h4>🔥 HERRAMIENTAS Y OTROS</h4>
 
 <ul>
- <li>Typescript, Nest.Js, NodeJs y Express</li>
- <li>Golang y Gin</li>
- <li>Php y Laravel</li>
+ <li>Principales (Python, FastAPI, Node.js, Express.js, Nest.js, JavaScript/TypeScript, Vue.js, Nuxt.js, React, Next.js)</li>
+ <li>Lenguajes de programación (Python, JavaScript, TypeScript, Go)</li>
+ <li>Bases de datos y herramientas (MySQL, PostgreSQL, MongoDB, Sequelize ORM, Mongoose)</li>
  <li>🔛 APIs Rest, Microservices, Event Driven Arquitecture</li>
- <li>OOP</li>
+ <li>Desarrollo de API (API RESTful, GraphQL, RPC)</li>
+ <li>Experiencia con aplicaciones sin servidor y prácticas de DevOps (AWS, Azure, pipelines CI/CD)</li>
+ <li>Sistemas backend escalables y de alto rendimiento, brokers de mensajes y colas (SQS, SNS, Apache Kafka, RabbitMQ)</li>
+ <li>Desarrollo agentico con Claude Code, Cursor, Opencode, Skills, MCP, Engram, SDD (Spect Driven Development), ODD (Organic Driven Development).</li>
 </ul>
- 
-<h4>🔥 Bases de datos:</h4>
 
-<ul>
- <li>MySql, Maria DB</li>
- <li>Postgress</li>
- <li>Mongo DB</li>
-</ul>
- 
 <h4>🔥 Cloud:</h4>
 
 <ul>
@@ -43,54 +34,14 @@
 </ul>
  
 
-<h4>🔥 Metodologias de trabajo:</h4>
-
-<ul>
- <li>👥 Agil Scrum</li>
- <li>🏁 Kanban</li>
- <li>👌 Capacidad de adaptarme a cualquier metodología. </li>
-</ul>
-
- 
- <h4>🔥 Intereses y gustos:</h4>
- 
- <ul>
- <li>🛒 Ecommerce</li>
- <li>🔐 Seguridad e Identidad</li>
- <li>📦 Marketplace B2B y B2C</li>
- <li>🚛 Plataformas de logisticas</li>
- <li>💳 FinTech </li>
- <li>📙 EdTech</li>
-</ul> 
- 
-
-<h4>🕒 En mí tiempo libre:</h4>
-
- 👨🏾‍💻 Desarrollo Apps en la iglesia donde asisto 🛐
- 🥋 Soy cinturón negro en taekwondo🏅 desde hace +9 años.</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odannysdelacruz&label=Profile%20views&color=0e75b6&style=flat" alt="odannysdelacruz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/odannys_codes" target="blank"><img src="https://img.shields.io/twitter/follow/odannys_codes?logo=twitter&style=for-the-badge" alt="odannys_codes" /></a> </p>
-
-- 🔭 Actualmente trabajando en [**Lezag Superbeauty**](https://www.superbeauty.com.co) a tiempo completo.
-- En mi tiempo libre desarrollando **Netflix Clone whit Vue** --> [Repositorio del proyecto](https://github.com/OdannysDeLaCruz/netflix-clone-vue)
-
-- 🌱 Estoy aprendiendo desarrollo backend con las tecnologías **Node, Express y MongoDB**, tengo conocimientos de **PHP, MySql y Laravel desarrollando APIs Rest**.
-
-- 👨‍💻 Puedes ver algunos de mis proyectos en [https://odannysdelacruz.github.io/](https://odannysdelacruz.github.io/), tengo que actualizarlo, lo sé.
-
-- 💬 Preguntame acerca **javascript, Vue js, React js, Ionic Framework y demas tecnologías web frontend**
-
-- 📫 Enviame un email a **el_odanis321@hotmail.com**
+- 📫 Enviame un email a **odannysdelacruz@hotmail.com**
 
 - 📄 Mira mi experiencia en [https://www.linkedin.com/in/odannysdelacruz/](https://www.linkedin.com/in/odannysdelacruz/)
 
 <h3 align="left">Conécta conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/odannys_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odannys_codes" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/odannysdelacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/odannysdelacruz" height="20" width="30" /></a>
-<a href="https://instagram.com/https://www.instagram.com/odannys.codes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/odannys.codes/" height="20" width="30" /></a>
+
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
