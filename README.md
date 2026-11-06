@@ -22,25 +22,9 @@
  <li>Sistemas backend escalables y de alto rendimiento, brokers de mensajes y colas (SQS, SNS, Apache Kafka, RabbitMQ)</li>
  <li>Desarrollo agentico con Claude Code, Cursor, Opencode, Skills, MCP, Engram, SDD (Spect Driven Development), ODD (Organic Driven Development).</li>
 </ul>
-
-<h4>🔥 Cloud:</h4>
-
-<ul>
- <li>AWS Amplify, EC2, S3, Api Gateway, Route 53</li>
- <li>Github, Bitbucket</li>
- <li>MongoAtlas</li>
- <li>Heroku</li>
- <li>Vercel</li> 
-</ul>
  
 
 - 📫 Enviame un email a **odannysdelacruz@hotmail.com**
-
-- 📄 Mira mi experiencia en [https://www.linkedin.com/in/odannysdelacruz/](https://www.linkedin.com/in/odannysdelacruz/)
-
-<h3 align="left">Conécta conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/odannysdelacruz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/odannysdelacruz" height="20" width="30" /></a>
 
 </p>
 
